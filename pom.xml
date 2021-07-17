@@ -1,21 +1,25 @@
 <project>
 
-<modelVersion>4.0.0</modelVersion>
+    <modelVersion>4.0.0</modelVersion>
 
-<groupId>utp</groupId>
+    <groupId>utp</groupId>
 
-<artifactId>ProyectoJavaMaven</artifactId>
+    <artifactId>ProyectoJavaMaven</artifactId>
 
-<version>1.0</version>
+    <version>1.0</version>
 
-<packaging>jar</packaging>
+    <packaging>jar</packaging>
 
-<properties>
+    <properties>
 
-<maven.compiler.source>16</maven.compiler.source>
+        <maven.compiler.source>16</maven.compiler.source>
 
-<maven.compiler.target>16</maven.compiler.target>
+        <maven.compiler.target>16</maven.compiler.target>
 
-</properties>
+        <sonar.projectKey>GJimenez6900_Py_maven-</sonar.projectKey>
+        <sonar.organization>gjimenez6900</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+        
+    </properties>
 
 </project>

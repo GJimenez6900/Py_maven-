@@ -1,0 +1,7 @@
+organization=gjimenez6900
+projectKey=GJimenez6900_Py_maven-
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=GJimenez6900_Py_maven-
+ceTaskId=AXqyp_wwIMQ8WWJBCso-
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqyp_wwIMQ8WWJBCso-
